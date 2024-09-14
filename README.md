@@ -16,7 +16,7 @@ This repository contains implementations of a To-Do List application built using
 
 The web version of the To-Do List application is built using HTML for the structure, CSS for styling, and JavaScript for interactivity. It allows users to add, remove, and display tasks dynamically on a web page.
 
-### Features
+### Feature
 
 - User-friendly interface
 - Add and remove tasks
@@ -32,7 +32,7 @@ The web version of the To-Do List application is built using HTML for the struct
 
 The Python version of the To-Do List application is a console-based program that allows users to add, remove, and display tasks using simple commands.
 
-### Features
+### Feature
 
 - Simple command-line interface
 - Add and remove tasks
@@ -51,7 +51,7 @@ The Python version of the To-Do List application is a console-based program that
 
 The Java version is a console-based To-Do List application that utilizes ArrayList for task management and allows users to add, remove, and display tasks.
 
-### Features
+### Feature
 
 - Command-line interface
 - Supports adding, removing, and displaying tasks
@@ -72,7 +72,7 @@ The Java version is a console-based To-Do List application that utilizes ArrayLi
 - Task Management: All versions provide basic task management features like adding, removing, and displaying tasks.
 - Code Readability: Each implementation is well-documented with comments to help understand the logic behind the code.
 
- ##Installation and Usage
+##  Installation and Usage
  
 1. Clone the Repository:
    ```bash
